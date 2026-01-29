@@ -1,0 +1,8 @@
+{
+  "name": "Elysian Estate CRM",
+  "description": "A high-end luxury real estate CRM designed for HNI and NRI lead management, featuring AI-powered insights, premium property portfolios, and sophisticated relationship tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
